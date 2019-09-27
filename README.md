@@ -1,6 +1,6 @@
 # Simple Java Game with mongoDB
 
-A simple java game made for college project.
+A simple java game made for a college project.
 
 #### Features:
 - Uses mongoDB to load maps.
